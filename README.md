@@ -24,7 +24,7 @@ Design a compact 1 × 2 MIMO antenna system with good impedance matching, low mu
 • Substrate: Rogers RT-Duroid 5880 (lossy)
 • Substrate thickness: 1.6mm
 • Copper cladding thickness: 0.35mm
-• Application: 5G Mid-Band / RIS Illumination
+• Application: 5G Mid-Band/High-Speed Data Transmission
 
 ---
 

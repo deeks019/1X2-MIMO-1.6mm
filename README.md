@@ -1,4 +1,4 @@
-# 1 × 2 MIMO Microstrip Patch Antenna (3.5 GHz)
+# 1 × 2 MIMO CPW Fed Antenna (3.5 GHz)
 
 This project presents the design and simulation of a 1 × 2 MIMO microstrip patch antenna operating at 3.5 GHz for 5G related wireless communication applications. The antenna system was designed to achieve high isolation, low correlation, improved diversity performance, and efficient radiation characteristics while maintaining compact dimensions.
 
